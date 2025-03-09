@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm [Jannatul]</h1>
+<h1 align="center">Hi 👋, I'm Jannatul</h1>
 <h3 align="center">A passionate Developer & Learner from Bangladesh</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=your-github-username&label=Profile%20Views&color=0e75b6&style=flat" alt="your-github-username" /> </p>
