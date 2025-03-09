@@ -8,7 +8,7 @@
 - 👯 I’m looking to collaborate on **Open Source Projects**
 - 🤝 I’m looking for help with **Advanced Data Science Projects**
 - 💬 Ask me about **Python, Web Development & Automation**
-- 📫 How to reach me: **[Your Email]**
+- 📫 How to reach me: **homairajannatul7**
 - ⚡ Fun fact: **I love solving problems & automating things!**
 
 <h3 align="left">Connect with me:</h3>
